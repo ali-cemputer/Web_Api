@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{32772FB2-BFAD-4A51-8C0B-09F565755CEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Api.Application", "Core\Web_Api.Application\Web_Api.Application.csproj", "{2CEE5D9E-92B4-4C3B-9CAF-4324B1EEBAB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_Api.Application", "Core\Web_Api.Application\Web_Api.Application.csproj", "{2CEE5D9E-92B4-4C3B-9CAF-4324B1EEBAB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Api.Domain", "Core\Web_Api.Domain\Web_Api.Domain.csproj", "{A6FD818D-91F6-4BB8-B585-B1A9BB6BD530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_Api.Domain", "Core\Web_Api.Domain\Web_Api.Domain.csproj", "{A6FD818D-91F6-4BB8-B585-B1A9BB6BD530}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_ApiInfrastructure", "Infrastructure\Web_Api.Infrastructure\Web_ApiInfrastructure.csproj", "{6E0212FD-8142-494C-B2F6-7768A1DAB7DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_Api.Infrastructure", "Infrastructure\Web_Api.Infrastructure\Web_Api.Infrastructure.csproj", "{6E0212FD-8142-494C-B2F6-7768A1DAB7DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Api.Persistance", "Infrastructure\Web_Api.Persistance\Web_Api.Persistance.csproj", "{3CECEB2D-27A2-4064-9863-9B4E404AE119}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_Api.Persistance", "Infrastructure\Web_Api.Persistance\Web_Api.Persistance.csproj", "{3CECEB2D-27A2-4064-9863-9B4E404AE119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Api.Api", "Presentation\Web_Api.Api\Web_Api.Api.csproj", "{0D459BC5-2E04-44F2-9E22-EE820AE20496}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_Api.Api", "Presentation\Web_Api.Api\Web_Api.Api.csproj", "{0D459BC5-2E04-44F2-9E22-EE820AE20496}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
