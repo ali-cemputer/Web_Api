@@ -8,7 +8,7 @@
       "sslPort": 0
     }
   },
-  "profiles": {
+  "profiles": {//Her profil, uygulamanın farklı ortamlarda nasıl başlatılacağını belirler.
     "Web_Api.Development": {
       "commandName": "Project",
       "dotnetRunMessages": true,
